@@ -20,6 +20,7 @@ This Android app provides an intuitive interface for analyzing text content for 
 - **Clear and Analyze Actions**
 
 ## Screenshots
+<img width="1221" height="522" alt="image" src="https://github.com/user-attachments/assets/c6a3c1ef-861f-4445-a9b1-c4e79cb3035a" />
 
 ### Main Interface
 - Text input area with multi-line support
@@ -214,3 +215,4 @@ For API-related problems, check the [API repository](https://github.com/salamtha
 ---
 
 **Note**: This app is a client interface that requires the Flask API backend to be running for text analysis functionality.
+
